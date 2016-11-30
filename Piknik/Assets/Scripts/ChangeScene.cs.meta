@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 929245acc6f2f1a46ae98398ef713a3b
+timeCreated: 1480359948
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - help: {instanceID: 0}
+  - button: {instanceID: 0}
+  - mosquitos: {instanceID: 0}
+  - activeMenuSel: {fileID: 1000010544364696, guid: 0e5e99ead5855ba46a91f8fffd9560aa,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
